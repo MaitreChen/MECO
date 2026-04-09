@@ -3,10 +3,9 @@
 # MECO: A Multimodal Dataset for Emotion and Cognitive Understanding in Older Adults
 
 <div align="center">
-![Python](https://img.shields.io/badge/Python-3.9-blue) 
-![PyTorch](https://img.shields.io/badge/Made_with_❤️_&_PyTorch-1.13.0-EE4C2C?logo=pytorch&logoColor=white) 
-![Dataset](https://img.shields.io/badge/🧠_Cognition_&_❤️_Emotion-MECO_Dataset-blueviolet)
-
+  <img src="https://img.shields.io/badge/Python-3.9-blue" alt="Python" /> 
+  <img src="https://img.shields.io/badge/Made_with_❤️_&_PyTorch-1.13.0-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" /> 
+  <img src="https://img.shields.io/badge/🧠_Cognition_&_❤️_Emotion-MECO_Dataset-blueviolet" alt="Dataset" />
 </div>
 
 
@@ -70,7 +69,7 @@ The framework has been tested on **Python 3.9.20**. We highly recommend setting 
 Clone the repository and install all required dependencies with a single command:
 
 ```bash
-git clone [https://github.com/maitrechen/meco.git](https://github.com/maitrechen/meco.git)
+git clone git@github.com:MaitreChen/MECO.git
 cd meco
 pip install -r requirements.txt
 ```
