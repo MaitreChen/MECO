@@ -1,0 +1,32 @@
+{
+  "log_dir": "logs",
+  "gpu_id": "0",
+  "seed": 2026,
+  "batch_size": 32,
+  "epochs": 100,
+  "lr": 3e-4,
+  "weight_decay": 1e-1,
+  "patience": 15,
+  "min_delta": 1e-5,
+
+  "sd_data_dir_video": "C:/MECO-NEW-SD-DATA/Video",
+  "sd_data_dir_eeg": "C:/MECO-NEW-SD-DATA/EEG",
+  "sd_data_dir_ecg": "C:/MECO-NEW-SD-DATA/ECG",
+
+  "num_classes": 3,
+  "label_type": "label_sa_class",
+
+  "used_modalities": [
+    "video"
+  ],
+  "feature_type_video": [
+    "deep_feature",
+    "au_openface"
+  ],
+  "feature_type_eeg": [
+    "eeg_de_feats"
+  ],
+  "feature_type_ecg": [
+    "ecg_sampen_feats"
+  ]
+}
