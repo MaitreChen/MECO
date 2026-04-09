@@ -3,13 +3,9 @@
 # MECO: A Multimodal Dataset for Emotion and Cognitive Understanding in Older Adults
 
 <div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3.9-blue) 
 ![PyTorch](https://img.shields.io/badge/Made_with_❤️_&_PyTorch-1.13.0-EE4C2C?logo=pytorch&logoColor=white) 
 ![Dataset](https://img.shields.io/badge/🧠_Cognition_&_❤️_Emotion-MECO_Dataset-blueviolet)
-
-<br>
-![Sleep](https://img.shields.io/badge/Researcher_Sleep-0_Hours-black)
 
 </div>
 
