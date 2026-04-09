@@ -9,8 +9,6 @@
 ![Dataset](https://img.shields.io/badge/🧠_Cognition_&_❤️_Emotion-MECO_Dataset-blueviolet)
 
 <br>
-
-![PyTorch](https://img.shields.io/badge/🔥_Trained_with-PyTorch_1.13-EE4C2C?logo=pytorch&logoColor=white)
 ![Sleep](https://img.shields.io/badge/Researcher_Sleep-0_Hours-black)
 
 </div>
