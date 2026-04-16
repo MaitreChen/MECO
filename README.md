@@ -29,12 +29,17 @@ For more details and supplementary materials, please visit our official [Project
 <br>
 <i>An overview of the MECO dataset, illustrating the multimodal data collection process, experimental paradigms, and downstream emotion/cognitive analysis tasks.</i>
 
-
 ## 💾 Dataset
 
 ### 1. Download
-The extracted multimodal feature dataset is hosted on Baidu Netdisk:
-* **Download Link**: [https://pan.baidu.com/s/1K7ZkEpt4iseMhsqVE8fiQQ?pwd=b3yj](https://pan.baidu.com/s/1K7ZkEpt4iseMhsqVE8fiQQ?pwd=b3yj)
+
+The extracted multimodal feature dataset is available via the following sources:
+
+- **Baidu Netdisk**:  
+  [https://pan.baidu.com/s/1K7ZkEpt4iseMhsqVE8fiQQ?pwd=b3yj](https://pan.baidu.com/s/1K7ZkEpt4iseMhsqVE8fiQQ?pwd=b3yj)
+
+- **Google Drive** :  
+  https://drive.google.com/file/d/1HIetl9oYDtKUQGC4IvNUUSuxjRHBtZto/view?usp=drive_link
 
 ### 2. Access Password
 To protect participant privacy, the dataset archive is encrypted. To obtain the unzip password, please refer to the **"Get Data"** section on our [Project Page](https://maitrechen.github.io/meco-page/) and send a formal request email as instructed.
